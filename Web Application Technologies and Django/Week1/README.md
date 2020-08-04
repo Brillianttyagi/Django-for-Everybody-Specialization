@@ -20,6 +20,5 @@
 *Content-Type:
 	text/plain
 
-# For Practice quiz:
- Although the quiz is easiest if you watch the videos, but for answers, contact me [here](https://github.com/pyprogr/Django-for-everybody/issues)
+
 
