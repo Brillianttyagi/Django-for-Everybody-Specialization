@@ -1,2 +1,4 @@
 # Django for Everybody Specialization
-Django for Everybody Specialization contain all submission and files used during this specialization. 
+Source code, assignments and other materials of The Django For Everybody course on Course provided by University of Michigan.
+
+
